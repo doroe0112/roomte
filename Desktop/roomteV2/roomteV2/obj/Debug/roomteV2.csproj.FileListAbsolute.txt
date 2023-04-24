@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\bin\Debug\roomteV2.exe.config
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\bin\Debug\roomteV2.exe
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\bin\Debug\roomteV2.pdb
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.Properties.Resources.resources
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.exe
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.pdb
+C:\Users\User\Desktop\roomte\Desktop\roomteV2\roomteV2\obj\Debug\roomteV2.Form1.resources

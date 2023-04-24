@@ -326,7 +326,10 @@ namespace Voice_Recognition_Test1
             port.Write("10");
             System.Threading.Thread.Sleep(delay);
             port.Write("11");
-            System.Threading.Thread.Sleep(delay);
+            Sys
+            
+            
+             tem.Threading.Thread.Sleep(delay);
             port.Write("12");
             System.Threading.Thread.Sleep(delay);
             port.Write("13");

@@ -26,3 +26,5 @@ D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csprojResolveAssembly
 D:\Sprachsteuerung Test 1\obj\Debug\Voice_Recognition_Test1.Form1.resources
 D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung_Test_1.Properties.Resources.resources
 D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\roomte\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.exe
+C:\Users\User\Desktop\roomte\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.pdb
