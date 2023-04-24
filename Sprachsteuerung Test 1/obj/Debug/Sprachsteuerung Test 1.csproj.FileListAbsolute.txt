@@ -1,0 +1,28 @@
+c:\users\domi\documents\visual studio 2015\Projects\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe.config
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Voice_Recognition_Test1.Form1.resources
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung_Test_1.Properties.Resources.resources
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csproj.GenerateResource.Cache
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.pdb
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.exe
+C:\Users\Domi\Documents\Visual Studio 2015\Projects\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.pdb
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe.config
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.pdb
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csprojAssemblyReference.cache
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Voice_Recognition_Test1.Form1.resources
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung_Test_1.Properties.Resources.resources
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csproj.GenerateResource.cache
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csproj.CoreCompileInputs.cache
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.exe
+C:\Users\domir\Desktop\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.pdb
+D:\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe.config
+D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.exe
+D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.pdb
+D:\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.exe
+D:\Sprachsteuerung Test 1\bin\Debug\Sprachsteuerung Test 1.pdb
+D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csprojResolveAssemblyReference.cache
+D:\Sprachsteuerung Test 1\obj\Debug\Voice_Recognition_Test1.Form1.resources
+D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung_Test_1.Properties.Resources.resources
+D:\Sprachsteuerung Test 1\obj\Debug\Sprachsteuerung Test 1.csproj.GenerateResource.Cache
