@@ -23,7 +23,7 @@ namespace roomteV2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            port = new SerialPort("COM9", 9600);
+            port = new SerialPort("COM6", 9600);
             try
             {
                 port.Open();
