@@ -1,7 +1,7 @@
-#include <IRremote.h>
-IRsend irsend;
+
 
 String cd [54];
+
 
 
 void setup()
